@@ -8,3 +8,5 @@
 8. dragón - https://dle.rae.es/drag%C3%B3n
 9. arroz - https://dle.rae.es/arroz
 10. zanahoria - https://dle.rae.es/zanahoria
+11. compilador - https://dle.rae.es/compilador
+12. variable - https://dle.rae.es/variable
